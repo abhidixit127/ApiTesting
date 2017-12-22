@@ -1,0 +1,10 @@
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\bin\Debug\RestSharp.dll
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\abhishek\Documents\Visual Studio 2017\Projects\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
